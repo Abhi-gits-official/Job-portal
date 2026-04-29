@@ -1,2 +1,12 @@
-/Users/abhishekgupta/Desktop/Frelancing/Job Application Portal/src/java/com/jobportal/controller/ApplicationServlet.java
-/Users/abhishekgupta/Desktop/Frelancing/Job Application Portal/src/java/com/jobportal/util/DBConnection.java
+/workspaces/Job-portal/src/java/com/jobportal/controller/ApplicationServlet.java
+/workspaces/Job-portal/src/java/com/jobportal/dao/ApplicationDAO.java
+/workspaces/Job-portal/src/java/com/jobportal/dao/JobDAO.java
+/workspaces/Job-portal/src/java/com/jobportal/dao/SkillDAO.java
+/workspaces/Job-portal/src/java/com/jobportal/dao/UserDAO.java
+/workspaces/Job-portal/src/java/com/jobportal/dao/UserSkillDAO.java
+/workspaces/Job-portal/src/java/com/jobportal/model/Application.java
+/workspaces/Job-portal/src/java/com/jobportal/model/Job.java
+/workspaces/Job-portal/src/java/com/jobportal/model/Skill.java
+/workspaces/Job-portal/src/java/com/jobportal/model/User.java
+/workspaces/Job-portal/src/java/com/jobportal/model/UserSkill.java
+/workspaces/Job-portal/src/java/com/jobportal/util/DBConnection.java
